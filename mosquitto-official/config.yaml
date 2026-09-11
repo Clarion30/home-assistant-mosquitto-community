@@ -1,5 +1,5 @@
 name: Mosquitto Community Broker
-version: "1.1.4"
+version: "1.1.5"
 slug: "mosquitto_official"
 description: Inoffizielle Home-Assistant-App mit dem offiziellen Eclipse-Mosquitto-Docker-Image
 url: https://github.com/Clarion30/home-assistant-mosquitto-official
@@ -13,7 +13,7 @@ stage: stable
 map:
   - addon_config:rw
 options:
-  username: mqtt
+  username: ""
   password: ""
   debug: false
 schema:
