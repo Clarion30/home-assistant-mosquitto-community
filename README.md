@@ -32,9 +32,12 @@ Anschließend **Mosquitto Community Broker** installieren, Benutzername und Pass
 
 > Wichtig: Das reguläre Mosquitto-Broker-Add-on darf nicht gleichzeitig laufen, da beide Port 1883 verwenden.
 
-## Unterstützte Plattform
+## Unterstützte Plattformen
 
-Derzeit ist die App für `amd64` konfiguriert.
+- `amd64` – unterstützt
+- `aarch64` – freigegeben, aber vom Autor bisher nicht auf echter ARM64-Hardware getestet. Aufgrund des offiziellen Multi-Arch-Eclipse-Mosquitto-Images und der einfachen Shell-Startlogik sollte die App funktionieren.
+
+Wenn du `aarch64` verwendest und Probleme feststellst, bitte ein GitHub-Issue mit den Home-Assistant- und App-Logs eröffnen.
 
 ## Datenschutz
 
