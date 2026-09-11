@@ -8,7 +8,7 @@ Die App stellt einen MQTT-Broker auf Port 1883 der Home-Assistant-IP bereit.
 
 ### username
 
-MQTT-Benutzername. Standardwert: `mqtt`
+MQTT-Benutzername. Es ist bewusst kein Standardwert vorgegeben. Bitte einen eigenen Benutzernamen eintragen.
 
 ### password
 
