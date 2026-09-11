@@ -1,5 +1,10 @@
 # Änderungsprotokoll
 
+## 1.1.6
+
+- Unterstützung für `aarch64` in Home Assistant freigegeben
+- Hinweis ergänzt, dass ARM64 bisher nicht auf echter Hardware getestet wurde, aber aufgrund des offiziellen Multi-Arch-Eclipse-Mosquitto-Images funktionieren sollte
+
 ## 1.1.5
 
 - Standardwert `mqtt` für den MQTT-Benutzernamen entfernt
