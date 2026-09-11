@@ -22,6 +22,11 @@ Bei `false` werden normale Informations-, Warn- und Fehlermeldungen angezeigt.
 
 Bei `true` verwendet Mosquitto `log_type all`.
 
+## Unterstützte Plattformen
+
+- `amd64` – unterstützt
+- `aarch64` – freigegeben, aber bisher nicht auf echter ARM64-Hardware getestet. Aufgrund des offiziellen Multi-Arch-Eclipse-Mosquitto-Images und der einfachen Shell-Startlogik sollte die App funktionieren.
+
 ## Wichtiger Hinweis
 
 Das reguläre Home-Assistant-Mosquitto-Add-on darf nicht gleichzeitig laufen. Beide MQTT-Broker würden Port 1883 der Home-Assistant-IP verwenden.
