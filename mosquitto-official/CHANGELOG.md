@@ -1,5 +1,10 @@
 # Änderungsprotokoll
 
+## 1.1.5
+
+- Standardwert `mqtt` für den MQTT-Benutzernamen entfernt
+- Benutzername muss jetzt bewusst selbst eingetragen werden
+
 ## 1.1.4
 
 - Projektlink auf das eigene GitHub-Repository geändert
