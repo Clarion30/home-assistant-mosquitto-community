@@ -1,10 +1,11 @@
 name: Mosquitto Community Broker
-version: "1.1.5"
+version: "1.1.6"
 slug: "mosquitto_official"
 description: Inoffizielle Home-Assistant-App mit dem offiziellen Eclipse-Mosquitto-Docker-Image
 url: https://github.com/Clarion30/home-assistant-mosquitto-official
 arch:
   - amd64
+  - aarch64
 startup: services
 boot: auto
 init: false
