@@ -1,5 +1,11 @@
 # Änderungsprotokoll
 
+## 1.1.8
+
+- Docker-Metadaten auf `Mosquitto Community Broker` bereinigt
+- Dokumentationsüberschrift auf `Mosquitto Community Broker` geändert
+- Technischen Home-Assistant-Slug `mosquitto_official` aus Kompatibilitätsgründen beibehalten
+
 ## 1.1.7
 
 - Repository von `home-assistant-mosquitto-official` auf `home-assistant-mosquitto-community` umbenannt
