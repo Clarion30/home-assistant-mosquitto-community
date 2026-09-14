@@ -26,7 +26,7 @@ Sie wurde erstellt, weil beim regulären Home-Assistant-Mosquitto-Add-on in eine
 
 In Home Assistant unter **Einstellungen → Apps → App-Store → Repositories** dieses Repository hinzufügen:
 
-`https://github.com/Clarion30/home-assistant-mosquitto-official`
+`https://github.com/Clarion30/home-assistant-mosquitto-community`
 
 Anschließend **Mosquitto Community Broker** installieren, Benutzername und Passwort setzen und die App starten.
 
