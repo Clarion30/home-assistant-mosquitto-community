@@ -1,4 +1,4 @@
-# Mosquitto Official – Dokumentation
+# Mosquitto Community Broker – Dokumentation
 
 ## Verwendung
 
