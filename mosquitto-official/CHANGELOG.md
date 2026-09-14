@@ -1,5 +1,10 @@
 # Änderungsprotokoll
 
+## 1.1.7
+
+- Repository von `home-assistant-mosquitto-official` auf `home-assistant-mosquitto-community` umbenannt
+- Repository-Links in App-Konfiguration und Dokumentation aktualisiert
+
 ## 1.1.6
 
 - Unterstützung für `aarch64` in Home Assistant freigegeben
