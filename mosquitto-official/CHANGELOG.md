@@ -1,5 +1,11 @@
 # Änderungsprotokoll
 
+## 1.1.9
+
+- Eclipse Mosquitto von `2.1.2` auf `2.1.4` aktualisiert
+- Docker-Image `eclipse-mosquitto:2.1.4-alpine` erfolgreich geprüft
+- Home-Assistant-App-Version auf `1.1.9` erhöht
+
 ## 1.1.8
 
 - Docker-Metadaten auf `Mosquitto Community Broker` bereinigt

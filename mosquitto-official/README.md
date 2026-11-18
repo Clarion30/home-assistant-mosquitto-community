@@ -4,7 +4,7 @@ Lokaler MQTT-Broker für Home Assistant auf Grundlage des offiziellen Eclipse-Mo
 
 ## Eigenschaften
 
-- Eclipse Mosquitto 2.1.2
+- Eclipse Mosquitto 2.1.4
 - MQTT-Port 1883
 - Benutzer- und Passwortschutz
 - Persistente MQTT-Daten
